@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "node-color-log": "^7.0.0",
+    "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "joi": "^17.6.0",
+    "mongoose": "^6.2.6",
+    "nodemon": "^2.0.15",
+    "on-headers": "^1.0.2"
+  }
+}

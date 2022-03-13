@@ -1,0 +1,6 @@
+/node_modules
+/test
+/seed
+.env
+package-lock.json
+rest.http
